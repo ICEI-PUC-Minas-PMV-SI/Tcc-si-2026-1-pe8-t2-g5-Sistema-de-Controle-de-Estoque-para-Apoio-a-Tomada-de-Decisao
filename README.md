@@ -1,4 +1,4 @@
-# Sistema de Estoque para apoio a toamda de decisão (ml-latest-small)
+# Sistema de Estoque para apoio a toamda de decisão
 
 `CURSO: Sistemas de Informação`
 
